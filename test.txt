@@ -1,0 +1,12 @@
+return (
+    <div className="App">
+      <header className="App-header">
+        <div>
+          <text className = "time"> {a} </text>
+        </div>
+       <div>
+        <button className = "startbutton" onClick = {handleClick}>Start</button>
+        </div>
+      </header>
+    </div>
+  );

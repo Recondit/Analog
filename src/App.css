@@ -1,0 +1,30 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+
+.App {
+  height:100vh;
+  text-align: center;
+  background-color: #F2E9DC;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.timer-seconds {
+  font-size: 200px;
+  color : #423629;
+  font-family: 'Silkscreen', cursive;
+}
+
+.StartButton {
+  display:block;
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  background-color:bisque;
+}
+
